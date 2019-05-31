@@ -1,0 +1,26 @@
+{
+  "name": "redux-minimized",
+  "version": "1.0.0",
+  "description": "Redux Minimized",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intrepidOlivia/redux-minimized.git"
+  },
+  "author": "intrepidOlivia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intrepidOlivia/redux-minimized/issues"
+  },
+  "homepage": "https://github.com/intrepidOlivia/redux-minimized#readme",
+  "dependencies": {
+    "deepmerge": "^3.2.0",
+    "lodash.clonedeep": "^4.5.0",
+    "react": "^16.8.6",
+    "redux": "^4.0.1",
+    "webpack": "^4.32.2"
+  }
+}
